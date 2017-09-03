@@ -17,4 +17,5 @@ Gitコマンドを覚えるためのリポジトリです。
 
 # 作業した人
 
-(@kazumalab)[https://github.com/kazumalab]
+[@kazumalab](https://github.com/kazumalab)
+
